@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\marce\\Downloads\\DMUProjects\\4WitchHunt\\WitchHunt(Unreal Worms) Low Size\\Source\\WitchHunt\\WitchHunt.Build.cs",
+		"C:\\Users\\marce\\Downloads\\DMUProjects\\4WitchHunt\\WitchHunt(Unreal Worms) Low Size\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"C:\\Users\\marce\\Downloads\\DMUProjects\\4WitchHunt\\WitchHunt(Unreal Worms) Low Size\\Source\\WitchHunt.Target.cs",
+		"C:\\Users\\marce\\Downloads\\DMUProjects\\4WitchHunt\\WitchHunt(Unreal Worms) Low Size\\Source\\WitchHuntEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
